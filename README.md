@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paguielnganji
-- 👀 I’m interested in ...PROGRAMATION
-- 🌱 I’m currently learning ...PYTHON & C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Aviation/Astronomy & PROGRAMATION
+- 🌱 I’m currently learning ...PYTHON & C & C++
+- 💞️ I’m looking to collaborate on ...Rocket Systems programation
 - 📫 How to reach me ...
 
 <!---
