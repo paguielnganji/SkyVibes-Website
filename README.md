@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paguiel Nganji
 - 👀 I’m Interested in ...Aerospace Ingeneering/ Aviation
-- 🌱 I’m currently learning ...PYTHON & C & C++, Matlab, Structured Query Language (SQL)
+- 🌱 I’m currently learning ...PYTHON & JAVA & C & C++, Matlab, Structured Query Language (SQL) & Android- Google Dev
 - 💞️ I’m looking to collaborate on ...Rocket Systems programation and Webb developpement
 - 📫 How to reach me ... E-mail
 
